@@ -3,9 +3,9 @@
 Welcome to the Learn Up project repository! This repo is a central hub where the team will upload their individual and group projects throughout November.
 
 ## Members:
-- **Abhijeet**
-- **Shivam**
-- **Aadit**
+- **Granth**
+- **XXXXX**
+- **XXXXX**
 - **Bhuvesh**
 
 ## Structure:
