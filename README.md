@@ -13,10 +13,10 @@ Welcome to the Learn Up project repository! This repo is a central hub where the
 - Group projects will be stored in the `group-projects/` folder.
 
 ### Folder Structure
-- `Abhijeet/`: Contains projects by Abhijeet.
-- `Shivam/`: Contains projects by Shivam.
-- `Aadit/`: Contains projects by Aadit.
-- `Bhuvesh/`: Contains projects by Bhuvesh.
+- `XXXXX/`: Contains projects by Abhijeet.
+- `XXXXX/`: Contains projects by Shivam.
+- `XXXXX/`: Contains projects by Aadit.
+- `Bhuvnesh/`: Contains projects by Bhuvesh.
 - `group-projects/`: Contains group collaboration projects.
 
 ## Instructions for Collaboration:
