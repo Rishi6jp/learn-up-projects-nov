@@ -6,7 +6,7 @@ Welcome to the Learn Up project repository! This repo is a central hub where the
 - **Granth**
 - **XXXXX**
 - **XXXXX**
-- **Bhuvesh**
+- **Bhuvnesh**
 
 ## Structure:
 - Each member has their own folder to work on their projects.
