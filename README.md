@@ -3,9 +3,9 @@
 Welcome to the Learn Up project repository! This repo is a central hub where the team will upload their individual and group projects throughout November.
 
 ## Members:
-- **Granth**
-- **XXXXX**
-- **XXXXX**
+- **Abhijeet**
+- **Shivam**
+- **Aadit**
 - **Bhuvnesh**
 
 ## Structure:
@@ -13,9 +13,9 @@ Welcome to the Learn Up project repository! This repo is a central hub where the
 - Group projects will be stored in the `group-projects/` folder.
 
 ### Folder Structure
-- `XXXXX/`: Contains projects by Abhijeet.
-- `XXXXX/`: Contains projects by Shivam.
-- `XXXXX/`: Contains projects by Aadit.
+- `Abhijeet/`: Contains projects by Abhijeet.
+- `Shivam/`: Contains projects by Shivam.
+- `Aadit/`: Contains projects by Aadit.
 - `Bhuvnesh/`: Contains projects by Bhuvesh.
 - `group-projects/`: Contains group collaboration projects.
 
